@@ -1,0 +1,2 @@
+[2025-05-10 11:49:05] layer "right-circle.png": Duplicate path: right-circle.png
+[2025-05-10 11:49:05] layer "Czy w saturatorze SodaStream można nagazować wodę z kranu? Tak,": Expected end of input but "," found.
