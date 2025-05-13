@@ -145,8 +145,6 @@
 }
 #es-rc #es-rc-content .es-change__single-group {
   position: absolute;
-  /* top: 27%;
-  left: 13%; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -952,13 +950,9 @@
 
   #es-rc #es-rc-content .es-change__single-group-first {
     position: absolute;
-    /* top: 23%; */
-    /* left: 7%; */
   }
   #es-rc #es-rc-content .es-change__single-group-second {
     position: absolute;
-    /* top: 31%;
-    left: 16%; */
   }
   #es-rc #es-rc-content .es-change__single-group-third {
     position: absolute;
